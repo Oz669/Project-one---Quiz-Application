@@ -13,3 +13,9 @@ Candidate_number,Name,Gender,Birthday,Question_number,Points,Time_to_answer
 2,moran,Female,2002-03-25,7,0,2.36787
 2,moran,Female,2002-03-25,8,0,3.559976
 2,moran,Female,2002-03-25,9,0,1.764294
+3,uyu,Male,1981-02-25,1,10,2.27395
+3,uyu,Male,1981-02-25,2,0,1.93544
+3,uyu,Male,1981-02-25,3,0,2.902124
+3,uyu,Male,1981-02-25,4,0,2.554354
+3,uyu,Male,1981-02-25,5,0,2.222893
+3,uyu,Male,1981-02-25,6,0,2.31821
