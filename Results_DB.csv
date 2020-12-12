@@ -3,3 +3,7 @@ Candidate_number,Name,Gender,Birthday,Question_number,Points,Time_to_answer
 1,migel,Male,1985-06-23,2,0,2.243814
 1,migel,Male,1985-06-23,3,10,2.95891
 1,migel,Male,1985-06-23,4,10,3.191932
+2,oz,Male,1985-03-24,1,0,2.562019
+2,oz,Male,1985-03-24,2,0,1.623251
+2,oz,Male,1985-03-24,3,0,1.679581
+2,oz,Male,1985-03-24,4,10,2.714615
