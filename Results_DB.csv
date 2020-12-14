@@ -111,3 +111,6 @@ Candidate_number,Name,Gender,Birthday,Question_number,Points,Time_to_answer
 9,shoshe,Female,1985-04-25,6,10,1.810628
 9,shoshe,Female,1985-04-25,7,10,3.886347
 9,shoshe,Female,1985-04-25,8,0,1.397562
+10,oz,Male,1985-05-23,1,10,10.23343
+10,oz,Male,1985-05-23,2,10,57.290686
+10,oz,Male,1985-05-23,3,10,4.10958
